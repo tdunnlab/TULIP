@@ -18,3 +18,16 @@ We provide the code for visualizing specific angles during the gait cycle. Here 
 <div align="center">
     <img src="angles_visualization.jpg">
 </div>
+
+## Citation
+Please cite the following paper if you use this repository in your research.
+```
+@InProceedings{Kim_2024_CVPR,
+    author    = {Kim, Kyungdo and Lyu, Sihan and Mantri, Sneha and Dunn, Timothy W.},
+    title     = {TULIP: Multi-camera 3D Precision Assessment of Parkinson's Disease},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {22551-22562}
+}
+```
