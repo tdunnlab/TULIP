@@ -4,7 +4,7 @@ This repository holds the demo data, gait feature extraction and visualization c
 
 [**TULIP: Multi-camera 3D Precision Assessment of Parkinson’s Disease**](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_TULIP_Multi-camera_3D_Precision_Assessment_of_Parkinsons_Disease_CVPR_2024_paper.pdf) Kyungdo Kim, Sihan Lyu, Sneha Mantri and Timothy W. Dunn, CVPR 2024. 
 
-For more information, please visit out TULIP project website. [link](https://www.tulipproject.net/)
+For more information, please visit our [TULIP project website](https://www.tulipproject.net/). 
 
 ## Demo data - "ThreeSubjects_GaitPoses.pkl"
 We provide three subjects' gait poses data saved in the file "ThreeSubjects_GaitPoses.pkl". Subject 7, 8 and 13 gait behaviors were respectively labeled as score 0, 1 and 2 by experienced clinicians, based on UDPRS criteria. The pose data for each subject is saved as a NumPy array with a shape of (4801, 26, 3), where 4801 represents the number of frames, 26 indicates the number of key points, and 3 denotes the three dimensions. The pose format is based on Halpe26. You can visit their Github [page](https://github.com/Fang-Haoshu/Halpe-FullBody) for detailed information.
