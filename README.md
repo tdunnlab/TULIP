@@ -9,6 +9,9 @@ For more information, please visit our [TULIP project website](https://www.tulip
 ## Demo data - "ThreeSubjects_GaitPoses.pkl"
 We provide three subjects' gait poses data saved in the file "ThreeSubjects_GaitPoses.pkl". Subject 7, 8 and 13 gait behaviors were respectively labeled as score 0, 1 and 2 by experienced clinicians, based on UDPRS criteria. The pose data for each subject is saved as a NumPy array with a shape of (4801, 26, 3), where 4801 represents the number of frames, 26 indicates the number of key points, and 3 denotes the three dimensions. The pose format is based on Halpe26. You can visit their Github [page](https://github.com/Fang-Haoshu/Halpe-FullBody) for detailed information.
 
+## Complete dataset
+Our complete dataset information is published in Zenodo. Please visit the [page](https://zenodo.org/records/14517699) for more information. 
+
 ## Gait feature extraction - "extract_features.py"
 We provide the code for extracting gait features and it can generate plots to visualize detected gait events - heel-strike and toe-off. The cross sign represents the detected gait events. All plots are in the "validation_figures" folder.
 <div align="center">
