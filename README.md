@@ -28,8 +28,22 @@ Please cite the following paper if you use this repository in your research.
     author    = {Kim, Kyungdo and Lyu, Sihan and Mantri, Sneha and Dunn, Timothy W.},
     title     = {TULIP: Multi-camera 3D Precision Assessment of Parkinson's Disease},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+```
+
+
+## License
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
     month     = {June},
     year      = {2024},
     pages     = {22551-22562}
 }
-```
+
